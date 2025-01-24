@@ -1,0 +1,5 @@
+• Type 1: Consumers with no installed EV, PV or HP: this set is composed of 300 consumers,
+• Type 2: Consumers with only PV installed and no EV or HP: this set is composed also of 300 consumers,
+• Type 3: Consumers with only EV installed and no PV or HP: this set is composed of 100 consumers,
+• Type 4: Consumers with PV and HP installed but no EV: this set is composed of 300 consumers,
+• Type 5: Consumers with EV and PV installed but no HP: this set is composed also of 300 consumers
