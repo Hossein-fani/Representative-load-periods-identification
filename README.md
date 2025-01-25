@@ -4,7 +4,7 @@ This repository contains the models and methods used in the CIRED 2025 paper for
 ## Dataset
 The `Datasets` directory contains all the data types used in the paper. To use and cite the datasets, please refer to the following sources:
 - [Analyzing electric vehicle, load and photovoltaic generation uncertainty using publicly available datasets](https://arxiv.org/abs/2409.01284)
-- [Dataset sorce GitHub page](https://github.com/umar-hashmi/Public-Load-profile-Datasets)
+- [Datasets sorce GitHub page](https://github.com/umar-hashmi/Public-Load-profile-Datasets)
 
 ## Clustering methods
 - The `Clustering.methods` module implements two commonly used clustering approaches:
